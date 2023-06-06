@@ -196,7 +196,7 @@ header > h1{/*Selecionar aqui a cor da letra do nosso H1 ou seja, do nosso títu
             footer{
                 padding: 80px;
                 background-image: url(img/pneu1.webp);
-                background-position: bottom ;
+                background-position: center;
                 background-repeat:  no-repeat;
             }
              footer > ul{
